@@ -1,2 +1,2 @@
-# BOJ
-백준 문제 풀이
+# BOJ, Programmers
+코딩 테스트 문제 풀이
